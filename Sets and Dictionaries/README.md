@@ -56,9 +56,21 @@ Dictionaries are used to store data values in **key:value** pairs. They are orde
 
 ---
 
-## 4. Observations & Logic
+## 4. Observations & Applications  
 * **Boolean Handling:** In Python sets, `True` and `1` are treated as the same value, as are `False` and `0`.
-* **Ordering:** Sets are unordered
+
+## Applications of Set  
+•	Removing duplicate records  
+•	Membership testing  
+•	Mathematical computations  
+
+## Applications of Dictionary  
+•	Student information systems  
+•	Phone directories  
+•	Database records  
+•	Configuration files  
+
+
 
 ---
 
