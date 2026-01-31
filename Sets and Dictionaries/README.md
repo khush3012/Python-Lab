@@ -5,6 +5,13 @@
 **Batch:** A-3  
 
 ---
+# Overview  
+
+A Set in Python is an unordered collection of unique elements. It is based on the mathematical concept of Set Theory. Sets are highly optimized for membership testing (checking if an item exists) and for performing standard mathematical operations like unions and intersections.  
+
+A Dictionary is an associative array or a map. It stores data in **Key:Value** pairs. Each key acts as a unique identifier for a specific piece of data, allowing for extremely fast retrieval.
+
+---
 
 ## 1. Python Sets
 A set is an unordered collection of items where every element is unique. Sets are written with curly brackets `{}`.
